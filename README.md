@@ -4,3 +4,5 @@ In this repository, I am highlighting all of my academic experiences and foundat
 
 # BPM_Case_Scenario.pdf
 
+https://github.com/dzavalapalafox/Project-Management/blob/main/BPM_Case%20_Study.pdf
+
